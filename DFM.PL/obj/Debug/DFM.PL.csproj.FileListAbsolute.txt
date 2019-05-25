@@ -1,0 +1,30 @@
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\bin\Debug\DFM.PL.exe.config
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\obj\Debug\DFM.PL.csprojResolveAssemblyReference.cache
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\obj\Debug\DFM.PL.Properties.Resources.resources
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\obj\Debug\DFM.PL.csproj.GenerateResource.Cache
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\bin\Debug\DFM.PL.exe
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\bin\Debug\DFM.PL.pdb
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\bin\Debug\DFM.BLL.dll
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\bin\Debug\DFM.DAL.dll
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\bin\Debug\DFM.BLL.pdb
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\bin\Debug\DFM.DAL.pdb
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\obj\Debug\DFM.PL.frmMain.resources
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\obj\Debug\DFM.PL.exe
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\obj\Debug\DFM.PL.pdb
+D:\NaciHoca\8.Hafta\DFM\DFM.PL\obj\Debug\DFM.PL.frmDetay.resources
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\bin\Debug\DFM.PL.exe.config
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\obj\Debug\DFM.PL.exe
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\obj\Debug\DFM.PL.pdb
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\bin\Debug\DFM.PL.exe
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\bin\Debug\DFM.PL.pdb
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\bin\Debug\DFM.BLL.dll
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\bin\Debug\DFM.DAL.dll
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\bin\Debug\DFM.BLL.pdb
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\bin\Debug\DFM.DAL.pdb
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\obj\Debug\DFM.PL.frmDetay.resources
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\obj\Debug\DFM.PL.frmMain.resources
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\obj\Debug\DFM.PL.Properties.Resources.resources
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\obj\Debug\DFM.PL.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\obj\Debug\DFM.PL.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\obj\Debug\DFM.PL.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.PL\obj\Debug\DFM.PL.csproj.CopyComplete

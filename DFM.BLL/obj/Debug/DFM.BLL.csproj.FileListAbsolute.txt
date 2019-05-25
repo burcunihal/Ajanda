@@ -1,0 +1,16 @@
+D:\NaciHoca\8.Hafta\DFM\DFM.BLL\bin\Debug\DFM.BLL.dll
+D:\NaciHoca\8.Hafta\DFM\DFM.BLL\bin\Debug\DFM.BLL.pdb
+D:\NaciHoca\8.Hafta\DFM\DFM.BLL\bin\Debug\DFM.DAL.dll
+D:\NaciHoca\8.Hafta\DFM\DFM.BLL\bin\Debug\DFM.DAL.pdb
+D:\NaciHoca\8.Hafta\DFM\DFM.BLL\obj\Debug\DFM.BLL.csprojResolveAssemblyReference.cache
+D:\NaciHoca\8.Hafta\DFM\DFM.BLL\obj\Debug\DFM.BLL.dll
+D:\NaciHoca\8.Hafta\DFM\DFM.BLL\obj\Debug\DFM.BLL.pdb
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.BLL\bin\Debug\DFM.BLL.dll
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.BLL\bin\Debug\DFM.BLL.pdb
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.BLL\bin\Debug\DFM.DAL.dll
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.BLL\bin\Debug\DFM.DAL.pdb
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.BLL\obj\Debug\DFM.BLL.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.BLL\obj\Debug\DFM.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.BLL\obj\Debug\DFM.BLL.csproj.CopyComplete
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.BLL\obj\Debug\DFM.BLL.dll
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.BLL\obj\Debug\DFM.BLL.pdb

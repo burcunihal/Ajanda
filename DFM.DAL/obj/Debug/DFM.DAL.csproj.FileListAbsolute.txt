@@ -1,0 +1,11 @@
+D:\NaciHoca\8.Hafta\DFM\DFM.DAL\bin\Debug\DFM.DAL.dll
+D:\NaciHoca\8.Hafta\DFM\DFM.DAL\bin\Debug\DFM.DAL.pdb
+D:\NaciHoca\8.Hafta\DFM\DFM.DAL\obj\Debug\DFM.DAL.csprojResolveAssemblyReference.cache
+D:\NaciHoca\8.Hafta\DFM\DFM.DAL\obj\Debug\DFM.DAL.dll
+D:\NaciHoca\8.Hafta\DFM\DFM.DAL\obj\Debug\DFM.DAL.pdb
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.DAL\bin\Debug\DFM.DAL.dll
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.DAL\bin\Debug\DFM.DAL.pdb
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.DAL\obj\Debug\DFM.DAL.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.DAL\obj\Debug\DFM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.DAL\obj\Debug\DFM.DAL.dll
+C:\Users\Pc\Desktop\NACİ HOCA\Yeni klasör\8.hafta\DFM\DFM.DAL\obj\Debug\DFM.DAL.pdb
